@@ -1,1 +1,16 @@
-BetaRadiations config of dwm
+My config of sucklesses dynamic window manager
+---------------------------------------------------------
+██████╗░░█████╗░████████╗░█████╗░██╗░░██╗███████╗░██████╗
+██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██║░░██║██╔════╝██╔════╝
+██████╔╝███████║░░░██║░░░██║░░╚═╝███████║█████╗░░╚█████╗░
+██╔═══╝░██╔══██║░░░██║░░░██║░░██╗██╔══██║██╔══╝░░░╚═══██╗
+██║░░░░░██║░░██║░░░██║░░░╚█████╔╝██║░░██║███████╗██████╔╝
+╚═╝░░░░░╚═╝░░╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚══════╝╚═════╝░
+---------------------------------------------------------
+
+1. dwm-fullgaps-6.2.diff, https://dwm.suckless.org/patches/fullgaps/
+Adds window gaps
+2. dwm-autostart-20161205-bb3bd6f.diff, https://dwm.suckless.org/patches/autostart/
+Adds an auto start function
+3. shiftview.c, https://lists.suckless.org/dev/1104/7590.html
+Adds additional tag switching functionalty
